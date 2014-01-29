@@ -27,3 +27,5 @@ together into a single executable.
 Nothing exists just yet, just a load of ideas in my head and a bunch of other open-source projects
 which are showing me a possible way to build them.
 
+Look at [the wiki](https://github.com/colincoombs/node-xscope-gui/wiki) for all sorts of notes and odd ideas
+that occur to me as I go along.
