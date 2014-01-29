@@ -1,0 +1,22 @@
+{
+  "name": "node-xscope-gui",
+  "version": "0.0.0",
+  "description": "A HTML-based GUI for node-xscope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/colincoombs/node-xscope-gui.git"
+  },
+  "author": "Colin Coombs <github@colincoombs.plus.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colincoombs/node-xscope-gui/issues"
+  },
+  "homepage": "https://github.com/colincoombs/node-xscope-gui",
+  "dependencies": {
+    "primus-live": "~0.3.6"
+  }
+}
